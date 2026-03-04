@@ -25,3 +25,4 @@ Source: https://sortedfood.com/recipe/2609
 4. Fill the intestine evenly and equally, not forcing too much in, so you have one long sausage. Tie the end.
 5. Twist the string of sausage into 6 inch sausages, making sure each twist is in the opposite direction to the last.
 6. Prick the sausages all over and grill for a few minutes on each side. Makes a dozen.
+

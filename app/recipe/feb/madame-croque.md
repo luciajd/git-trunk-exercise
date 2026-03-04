@@ -6,12 +6,12 @@ Source: https://www.realsimple.com/food-recipes/browse-all-recipes/salt-vinegar-
 
 ## Ingredients
 
-- 1/4 cup apple cider vinegar, divided
-- 1/4 cup olive oil, divided
-- 1 1/4 teaspoons kosher salt 
+- ¼ cup apple cider vinegar, divided
+- ¼ cup olive oil, divided
+- 1 ¼ teaspoons kosher salt 
 - Freshly ground black pepper
 - 2 pounds fingerling potatoes halved lengthwise
-- 1/4 cup fresh curly parsley leaves
+- ¼ cup fresh curly parsley leaves
 - 2 tablespoons choppede fresh oregano
 - 2 tablespoons chopped fresh dill
 - Flaky sea salt, for serving
