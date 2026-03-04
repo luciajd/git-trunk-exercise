@@ -1,4 +1,4 @@
-# John Lemon
+# Candied Carrots
 
 These candied carrots are easy to make for a delicious side dish for ham, 
 roast beef, or chicken.
