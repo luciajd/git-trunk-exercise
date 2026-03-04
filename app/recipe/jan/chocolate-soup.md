@@ -21,7 +21,7 @@ Source: https://sortedfood.com/recipe/10702
 - 50 ml double cream (to drizzle)
 - 12 mint leaves (garnish)
 
-# Instructions
+## Instructions
 
 1. Take the brioche and cut them into cubes about 2-3cm on each side. Dunk them in a bowl of melted butter, then toss in a bowl that has the brown sugar and ground cinnamon combined.
 2. Preheat an oven to 180°C. Arrange the tossed croutons on a clean non-stick baking tray and bake for 6-8 minutes until they are golden. (They will crisp up as they cool!)
